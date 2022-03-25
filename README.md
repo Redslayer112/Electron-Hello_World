@@ -1,4 +1,9 @@
 # Electron-Hello_World
+## Requirments
+> Git  
+> Node.js  
+> npm
+
 ## Installation
 Install or clone repo using git by opening command prompt in windows or command line and type:
 > git clone https://github.com/Redslayer112/Electron-Hello_World.git
